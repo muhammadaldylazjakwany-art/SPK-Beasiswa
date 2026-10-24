@@ -1,0 +1,21 @@
+# Mengabaikan file sistem dan cache
+.DS_Store
+Thumbs.db
+
+# Mengabaikan modul Frontend (React)
+frontend/node_modules/
+frontend/dist/
+frontend/.eslintcache
+
+# Mengabaikan modul Backend (Python)
+backend/__pycache__/
+backend/venv/
+backend/.env
+backend/env/
+
+# Catatan Database: 
+# Jika Anda ingin mahasiswa mendapatkan database yang sudah ada isinya (sebagai contoh), 
+# biarkan baris di bawah ini diberi tanda pagar (#).
+# Namun jika Anda ingin database tidak ikut terunggah (mahasiswa mulai dari nol), 
+# hapus tanda pagar di bawah ini:
+# backend/dss_database.db
