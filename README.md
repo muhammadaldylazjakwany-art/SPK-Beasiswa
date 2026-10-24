@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⚡ SPK: Hybrid AHP-SAW (Analytic Hierarchy Process & Simple Additive Weighting)
 
 Repositori ini berisi *source code* lengkap untuk aplikasi **Sistem Pendukung Keputusan (SPK)** berbasis web dengan arsitektur modern (*decoupled*). Sistem ini mengintegrasikan metode **AHP** untuk kalibrasi bobot kriteria yang konsisten, dan **SAW** untuk evaluasi serta pemeringkatan alternatif secara efisien.
@@ -49,3 +50,6 @@ npm run dev
 Buka browser Anda dan kunjungi tautan lokal yang muncul (biasanya http://localhost:5173).
 
 Hak Cipta © 2026 Ahmad Fauzi. Dokumentasi ini disusun sebagai artefak implementasi teknis untuk pembelajaran Sistem Pendukung Keputusan.
+=======
+# SPK-Beasiswa
+>>>>>>> dd22b4804a10cb1c0e158c120f62c1022c822e15
